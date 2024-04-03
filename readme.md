@@ -6,7 +6,11 @@ Oklahoma City, OK | (405) 850-0738 | github.com/ryan-hernandez | ryanmichaelhern
 
 Software engineer experienced in rapid delivery of distributed systems to business users with an interest in delivering microservices. Specialized knowledge of the .NET and Azure environments, as well as in full-stack development leveraging the Angular framework.
 
-[TOC]
+## Table of Contents
+1. [Professional Experience](#professional-experience)
+2. [Education](#education)
+3. [Skills](#skills)
+4. [Hobbies](#hobbies)
 
 ## **Professional Experience**
 ### ***Heartland Payment Systems - Oklahoma City, OK***
