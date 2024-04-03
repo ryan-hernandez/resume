@@ -1,7 +1,7 @@
 # Ryan Hernandez
 
 ```
-Oklahoma City, OK | (405) 850-0738 | github.com/ryan-hernandez | ryanmichaelhernandez@gmail.com
+Oklahoma City, OK | github.com/ryan-hernandez | ryanmichaelhernandez@gmail.com
 ```
 
 Software engineer experienced in rapid delivery of distributed systems to business users with an interest in delivering microservices. Specialized knowledge of the .NET and Azure environments, as well as in full-stack development leveraging the Angular framework.
