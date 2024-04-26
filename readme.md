@@ -4,7 +4,7 @@
 Oklahoma City, OK | github.com/ryan-hernandez | ryanmichaelhernandez@gmail.com
 ```
 
-Software engineer experienced in rapid delivery of distributed systems to business users with an interest in delivering microservices. Specialized knowledge of the .NET and Azure environments, as well as in full-stack development leveraging the Angular framework.
+Results-driven Software Engineer with a proven ability to design and develop scalable, efficient, and secure distributed systems. Skilled in .NET and Azure Cloud Services, with expertise in full-stack development using Angular. Proven track record of delivering high-quality solutions quickly and efficiently, with a focus on modernizing legacy systems to drive business growth and innovation. I leverage my technical expertise to analyze complex problems, identify opportunities for improvement, and develop innovative solutions that drive business value.
 
 ## Table of Contents
 1. [Professional Experience](#professional-experience)
